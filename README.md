@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, this is THE Vijay</h1>
 <h3 align="center">The Analogy of intelligence is always expandable,but depends though.</h3>
 
