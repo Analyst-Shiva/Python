@@ -1,5 +1,5 @@
 ![logo](https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?auto=format&fit=crop&q=80&w=1925&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-<h1 align="center">Hi 👋, this is THE Vijay</h1>
+<h1 align="center">Hi 👋, this is Shiva</h1>
 <h3 align="center">The Analogy of intelligence is always expandable,but depends though.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJjbTRkZGdraXNrN3RqdDdpZWRxdHJ3NjB0dHh2ZHFmd3BhcWl2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
